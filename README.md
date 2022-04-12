@@ -1,2 +1,2 @@
 # llvm-msvc-issues
-Issues about llvm-msvc can be submitted here
+Issues about llvm-msvc can be sent here
